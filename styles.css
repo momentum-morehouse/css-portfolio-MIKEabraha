@@ -1,27 +1,54 @@
-body{ background-color:lightcoral; 
+body{background-color:rgb(177, 230, 255); 
     
 
+}
+
+nav{display:flex; 
+
+    
+}
+
+nav a{text-decoration: none;
 
 
+}
+
+button{background-color: burlywood
 
 
+}
+
+.navbar{background-color:rgb(145, 75, 75);
  
+
+
+}
+ 
+.header{background-color: gold ;
+ font-family: georgia;
+  border: 2px solid rgb(145, 75, 75);
+  }
+
+
+.par{
+ border: 2px solid rgb(145, 75, 75);
+ background-color: gold;
+ flex-flow: column;
+}
+.nav-tag{
+ flex-flow:column;
  
 
-  
 }
 
 
-.button.home {
-  width: 74px;
-  height: 74px;
-  border-style: solid;
-  border-width: 37px;
-  border-color: #202020;
+.everything{
+ border: 4px solid rgb(145, 75, 75);
+ background-color: gold;
+ flex-flow: column;
+
+
 }
-
-
-
 
 
 
